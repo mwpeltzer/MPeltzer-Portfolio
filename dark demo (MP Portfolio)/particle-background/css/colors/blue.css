@@ -1,0 +1,48 @@
+/* ========================================================================================= */
+/* ======================================= MAIN COLOR : #2fc0d1 =================================== */
+/* ========================================================================================= */
+
+.title:after {
+ 	background: #2fc0d1;
+}
+.small-title:after {
+ 	background: #2fc0d1;
+}
+.sidebar ul .active a:before {
+ 	background: #2fc0d1;
+}
+.sidebar ul li a:hover::before {
+ 	background: #2fc0d1;
+}
+.home-page .middle-l h3 span {
+ 	background-color: #2fc0d1;
+}
+.info ul li a {
+    border-color: #2fc0d1;
+}
+.services ul li .service-box:hover i {
+	background: #2fc0d1;
+	border-color: #2fc0d1;
+}
+.resume .column-left .icon {
+	background: #2fc0d1;
+}
+.resume .column-right .icon {
+	background: #2fc0d1;
+}
+.filter a:hover {
+    border-bottom: 1px solid #2fc0d1;
+}
+.filter li a.active {
+    border-bottom: 1px solid #2fc0d1;
+}
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #2fc0d1;
+}
+.form-group .button {
+    background: #2fc0d1;
+}
+.contact-info .item i {
+    color: #2fc0d1;
+}

@@ -1,0 +1,48 @@
+/* ========================================================================================= */
+/* ======================================= MAIN COLOR : #49b970 =================================== */
+/* ========================================================================================= */
+
+.title:after {
+ 	background: #49b970;
+}
+.small-title:after {
+ 	background: #49b970;
+}
+.sidebar ul .active a:before {
+ 	background: #49b970;
+}
+.sidebar ul li a:hover::before {
+ 	background: #49b970;
+}
+.home-page .middle-l h3 span {
+ 	background-color: #49b970;
+}
+.info ul li a {
+    border-color: #49b970;
+}
+.services ul li .service-box:hover i {
+	background: #49b970;
+	border-color: #49b970;
+}
+.resume .column-left .icon {
+	background: #49b970;
+}
+.resume .column-right .icon {
+	background: #49b970;
+}
+.filter a:hover {
+    border-bottom: 1px solid #49b970;
+}
+.filter li a.active {
+    border-bottom: 1px solid #49b970;
+}
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #49b970;
+}
+.form-group .button {
+    background: #49b970;
+}
+.contact-info .item i {
+    color: #49b970;
+}
