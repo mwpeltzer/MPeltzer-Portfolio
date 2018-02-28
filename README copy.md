@@ -1,2 +1,0 @@
-# MPeltzer-Portfolio
-Technical Portfolio
